@@ -1,0 +1,11 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# 配置文件（含 Supabase 密钥）
+config.js
+.env
